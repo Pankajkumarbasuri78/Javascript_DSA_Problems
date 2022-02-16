@@ -1,6 +1,6 @@
 # DSA QUESTIONS IN JAVASCRIPT
 - QUESTION 1
- -Take an Array of Object and perform Map, Reduce, and Filter.
+  -Take an Array of Object and perform Map, Reduce, and Filter.
 - QUESTION 2
  - Write a program to check  whether two array has the same elements in the same order. 
    May be Cyclic
