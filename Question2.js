@@ -16,8 +16,8 @@ The test should return true for [2,3,4,1], [3,4,1,2], [4,1,2,3] but not for [1,3
      }
  }
  if(k==0)
- console.log("not same");
+ console.log("given two array has different element(taken care of cyclic)");
  else
- console.log("same");
+ console.log("given two array has same element(taken care of cyclic)");
 
  
